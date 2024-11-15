@@ -1,4 +1,4 @@
-const localQuotes =[
+export const localQuotes =[
 {
 "text": "E don cast, last last, na everyone go chop breakfast.",
 "author": "Burna Boy"
@@ -26,6 +26,10 @@ const localQuotes =[
 {
 "text": "Nothing happens unless first we dream.",
 "author": "Carl Sandburg"
+},
+{
+"text": "Boys are very crazy.",
+"author": "Lil Miss Kim"
 },
 {
 "text": "Well begun is half done.",
