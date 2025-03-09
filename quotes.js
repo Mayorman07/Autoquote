@@ -64,6 +64,10 @@ export const localQuotes =[
 "author": "Wayne Dyer"
 },
 {
+"text": "If it makes you happy; Do it!!.",
+"author": "Millie"
+},
+{
 "text": "Today is the tomorrow we worried about yesterday.",
 "author": null
 },
