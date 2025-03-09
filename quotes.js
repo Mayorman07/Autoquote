@@ -896,6 +896,10 @@ export const localQuotes =[
 "author": "Anatole France"
 },
 {
+"text": "If it makes you happy; Do it!!.",
+ "author": "Millie"
+},
+{
 "text": "Patience is the companion of wisdom.",
 "author": "Saint Augustine"
 },
@@ -6574,5 +6578,9 @@ export const localQuotes =[
 {
 "text": "Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.",
 "author": "Tom Jackson"
-}
+},
+{
+    "text": "And I still managed to advance with all these numbers that ain't handsome.",
+    "author": "Meek Mill"
+    }
 ]
