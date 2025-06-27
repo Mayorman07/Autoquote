@@ -532,6 +532,10 @@ export const localQuotes =[
 "author": "Gustave Flaubert"
 },
 {
+    "text": "My love has come.",
+    "author": "Damilola Ogunlana"
+    },
+{
 "text": "Speak low, if you speak love.",
 "author": "William Shakespeare"
 },
@@ -894,10 +898,6 @@ export const localQuotes =[
 {
 "text": "To accomplish great things, we must dream as well as act.",
 "author": "Anatole France"
-},
-{
-"text": "If it makes you happy; Do it!!.",
- "author": "Millie"
 },
 {
 "text": "Patience is the companion of wisdom.",
